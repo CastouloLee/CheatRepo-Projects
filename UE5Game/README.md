@@ -10,19 +10,21 @@ Unfortunately you cannot contribute to the project, while we would love for you 
 ## Suggestions
 If you have any suggestions for the game I will look into it, please refer 💡idea discusson forum
 
-## Main Features
-the main features of the game will be the following:
+## Must have features
+These are the must have features for the game.
 * jumping 
 * four movement states
     * idle
     * walking
     * running
     * sprinting
+
+## Main features
 * sneaking
 * meele attack
 
-## additional features
-in addition to the main features we planned following features:
+## Additional features
+* prone
 * ranged attack
 * crouching
 * wall jumping
