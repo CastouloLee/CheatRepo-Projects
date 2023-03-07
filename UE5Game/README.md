@@ -14,10 +14,10 @@ If you have any suggestions for the game I will look into it, please refer 💡i
 the main features of the game will be the following:
 * jumping 
 * four movement states
-    1. idle
-    2. walking
-    3. running
-    4. sprinting
+    * idle
+    * walking
+    * running
+    * sprinting
 * sneaking
 * meele attack
 
