@@ -9,7 +9,6 @@ Unfortunately you cannot contribute to the project, while we would love for you 
 
 ## Suggestions
 If you have any suggestions for the game I will look into it, please refer 💡idea discusson forum
-
 ## Must have features
 These are the must have features for the game.
 * jumping 
