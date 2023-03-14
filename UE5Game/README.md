@@ -6,7 +6,7 @@ This game will be made with unreal engine 5 and it will either be in 2D or 3D.
 
 ## Documentation
 Our documentation of the project is in a different folder in order to avoid conflicts with what we're currently working with.
-[📁 documentation folder]()
+[📁 documentation folder](/Documentation/README.md)
 
 ## Contribute 🤝
 Unfortunately you cannot contribute to the project, while we would love for you to partake in this project we cannot.

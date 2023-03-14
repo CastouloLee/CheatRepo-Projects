@@ -20,10 +20,37 @@ If you find a bug or have an idea for a feature, please open an issue in the iss
 If you would like to contribute code, please do the following:
 
 1. Fork this repository
-2. Create a new branch for your feature
+2. Use a branch that fits your role for your feature
 3. Add your changes to the branch
 4. Commit your changes
 5. Push your changes to your fork
 6. Open a pull request
+7. Describe what you did, how it works and for what it is.
 
 We will review your pull request and decide if it should be merged. We will add you as one of our sources.
+
+### Submitting Pull Requests - Outside Collaborators
+
+If you would like to contribute code, please do the following:
+
+1. Fork this repository
+2. Use the branch `🤝 Outside Collaborators` for your feature
+3. Add your changes to the branch
+4. Commit your changes
+5. Push your changes to your fork
+6. Open a pull request
+7. Describe what you did, how it works and for what it is.
+
+We will review your pull request and decide if it should be merged. We will add you as one of our sources.
+
+### Submitting Pull Request - Invited Collaborators
+
+If you are already a member of a project of ours, please do the following:
+
+1. Use the branch asigned to you, for your commits.
+2. Add your changes to your asigned branch.
+3. Commit your changes to your asigned branch.
+4. Open a pull request.
+5. Describe what you did in your pull request.
+
+I will review your pull request.

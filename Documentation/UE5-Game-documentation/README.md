@@ -25,3 +25,18 @@ COMING SOON
 
 ## Project Documentation
 **COMING SOON**
+
+## Branches
+
+| Who         | Type      | Branchname             |
+|-------------|-----------|------------------------|
+| Castoulolee | Protected | main                   |
+| Bibertv     | Dependend | collaborator-branch_VZ |
+| Ungbert     | Dependend | collaborator-branch_YR |
+
+### Branches - naming convention
+
+| For Who               | Name                                 |
+|-----------------------|--------------------------------------|
+| Collaborators         | collaborator-branch_Initials         |
+| Outside-Collaborators | outside-collaborator-branch_Initials |
